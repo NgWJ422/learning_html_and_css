@@ -1,0 +1,23 @@
+body{
+    background-color:black ;
+}
+h1{
+    color: white;
+}
+p{
+    background: gray;
+    color: white;
+    font-family:"press Start 2P" ,"consolas", sans-serif;
+    font-style: italic;
+}
+#p3{
+    color: tomato;
+}
+.odd{
+    color: aquamarine;
+    font-family: "consolas" sans-serif;
+}
+
+.even{
+    color: blueviolet;
+}
